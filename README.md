@@ -1,7 +1,7 @@
 # Loqbox
 Author: Femi Omotesho
 
-Technical assessment exerciese for the LOQBOX Technology UK Limited, United Kingdom
+Technical assessment exerciese for LOQBOX Technology UK Limited, United Kingdom
 
 1. Unpack the loqbox.zip folder into the root directory of your local server
 
